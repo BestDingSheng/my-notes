@@ -1,7 +1,7 @@
 module.exports = {
   title: '',
   description: 'Just playing around',
-  base: '/my-notes/',
+  // base: '/my-notes/',
   dest: 'dist',
   themeConfig: {
     logo: '/img/logo.png',

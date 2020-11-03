@@ -1,0 +1,41 @@
+Arguments: 
+  /Users/dingsheng/.nvm/versions/node/v10.14.2/bin/node /usr/local/Cellar/yarn/1.16.0/libexec/bin/yarn.js add -D sass-loader node-sass
+
+PATH: 
+  /Users/dingsheng/.nvm/versions/node/v10.14.2/bin:/usr/local/mongodb/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/mongodb/bin:/usr/local/mysql/bin:/usr/local/mysql/support-files:/usr/local/mysql/bin:/usr/local/mysql/support-files
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.14.2
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npm.zhonganonline.com npm.zhonganonline.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+
+npm manifest: 
+  {
+    "name": "my-notes",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/BestDingSheng/my-notes.git",
+    "author": "dingsheng <7270404141@qq.com>",
+    "license": "MIT",
+    "devDependencies": {
+      "vuepress": "^1.7.1"
+    },
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

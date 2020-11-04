@@ -1,17 +1,14 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: ''
+heroText: ~
 tagline: ''
-actionText: 快速上手 →
+actionText: 来挖宝 →
 actionLink: /guide/
 features:
 - title: 😎 Awesome
   details: 收藏的一些优质文章
 - title: 📅 Notes
   details: 自己平时的一些笔记
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: MIT Licensed | Copyright © 2020 by Deson ❤️
 ---
-
-
-<Show></Show>

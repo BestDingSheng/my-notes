@@ -3,14 +3,15 @@ export function setStore(key, value = {}) {
   sessionStorage.setItem(key, strValue);
 }
 
-function hasStore(key){
-	return !!sessionStorage.getItem(key);
+function hasStore(key) {
+  return !!sessionStorage.getItem(key);
 }
 
-export  function getStore(key) {
-	if (!hasStore(key)) return false;
+export function getStore(key) {
+  if (!hasStore(key)) return false;
   const result = sessionStorage.getItem(key);
-	const parseResult = JSON.parse(result);
-	return parseResult
+  const parseResult = JSON.parse(result);
+  return parseResult;
 }
+
 

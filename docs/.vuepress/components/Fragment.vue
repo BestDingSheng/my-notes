@@ -9,10 +9,9 @@
 </template>
 
 <script>
-// import axios from 'axios' 
 import request from '../utils/request.ts';
 import config from '../utils/config.ts';
-import a, { setStore, getStore } from '../utils/store.ts'
+import { setStore, getStore } from '../utils/store.ts'
 export default {
   data () {
     return {
@@ -44,19 +43,6 @@ export default {
 </script>
 
 <style lang="postcss" scoped>
-.main-container {
-  background-color: #eee;
-  padding: 15px 20px;
-  border-radius: 5px;
-  font-size: 16px;
-}
 
-.text {
-  margin-bottom: 10px;
-}
 
-.author {
-  text-align: right;
-  font-size: 14px;
-}
 </style>

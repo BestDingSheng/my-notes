@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "90dd0b6f5972c060c3b70c962c5bfca1"
+    "revision": "ae60e1d566b19e655caf2ef3ca7cbead"
   },
   {
     "url": "assets/css/0.styles.0401a2df.css",
@@ -42,20 +42,20 @@ self.__precacheManifest = [
     "revision": "a54f1eb863f5044234733d79e488b9bd"
   },
   {
-    "url": "assets/js/11.6eb08f80.js",
-    "revision": "9f49d2cb3d287e03b34660921bad6670"
+    "url": "assets/js/11.3987ca3c.js",
+    "revision": "d482bb68fc44d1a143038824f7a5bd59"
   },
   {
-    "url": "assets/js/12.8e91177e.js",
-    "revision": "527afd82d8160c3bd0e802eb47d20d2a"
+    "url": "assets/js/12.7c797882.js",
+    "revision": "d4393151e2d03e8327619a69310f6087"
   },
   {
-    "url": "assets/js/13.c935ab30.js",
-    "revision": "49f6757a0bf6113106a41f3a81870fcd"
+    "url": "assets/js/13.13b3235e.js",
+    "revision": "052c7f5cd5dccd69c96edc92c6e1e3e4"
   },
   {
-    "url": "assets/js/14.80c205e9.js",
-    "revision": "52a3ded3e8c00dcd401e094b4ed1bc99"
+    "url": "assets/js/14.e2771906.js",
+    "revision": "cec622cc67da94ab2fc92be0bb46d302"
   },
   {
     "url": "assets/js/15.5fcd3b8c.js",
@@ -106,36 +106,40 @@ self.__precacheManifest = [
     "revision": "6d346cd9768408eb533d696ce0793b47"
   },
   {
-    "url": "assets/js/26.7e2a9449.js",
-    "revision": "75449071b48bdcf48ea1d31a539d4184"
+    "url": "assets/js/26.70b7ba2e.js",
+    "revision": "ed85ae578a3fc6a8e02c91b3e8d48303"
   },
   {
-    "url": "assets/js/27.5527dc34.js",
-    "revision": "d6086ff8ea0d446445abe54ac8eeaf2c"
+    "url": "assets/js/27.57115668.js",
+    "revision": "065f1e63dc78bc017784f5f750c5ca32"
   },
   {
-    "url": "assets/js/28.cce54693.js",
-    "revision": "b172e0c52f6862874b3721c26c4c4acc"
+    "url": "assets/js/28.827638fb.js",
+    "revision": "005b2c62ac10eb150b2b2df457c215a7"
   },
   {
-    "url": "assets/js/29.6b29da4c.js",
-    "revision": "55e709b93cd2912e1ea9ae38408fa04d"
+    "url": "assets/js/29.a62a77a4.js",
+    "revision": "2c6ff1dbf67f5f9845b8bb2c44b6a68f"
   },
   {
     "url": "assets/js/3.f4091882.js",
     "revision": "7ea8095a3e3d2a8add2b8b6d591dcfb4"
   },
   {
-    "url": "assets/js/30.bdee1a45.js",
-    "revision": "ed78c370365a465f62eaeb71dfcae9e0"
+    "url": "assets/js/30.e3420526.js",
+    "revision": "2edb024732fd4418147eea9217428e28"
+  },
+  {
+    "url": "assets/js/31.b4c5bd59.js",
+    "revision": "8bd22a202848ee0c376c1996e9a43f12"
   },
   {
     "url": "assets/js/4.85c4affd.js",
     "revision": "43ec67408bb8fa6ab5ba0aecb2513205"
   },
   {
-    "url": "assets/js/5.10e4776b.js",
-    "revision": "ce38dcae5e81713b9a5b4a57c07a7161"
+    "url": "assets/js/5.1d352ef3.js",
+    "revision": "279a49a53aa5b6e525c1a66e4d3eb967"
   },
   {
     "url": "assets/js/6.84a51dd4.js",
@@ -154,12 +158,12 @@ self.__precacheManifest = [
     "revision": "1a48cece2fe98c1f4bc057b795165462"
   },
   {
-    "url": "assets/js/app.4fe54768.js",
-    "revision": "d9180e4c880f742e7800a544b20f7b6f"
+    "url": "assets/js/app.4a365150.js",
+    "revision": "b50c34f6e003b3256c9d2c195e2679a4"
   },
   {
     "url": "config.html",
-    "revision": "1c1cdd1192d2967a2fdf2439e48acd80"
+    "revision": "9423e3bc04e4ef85f2e09f57785d1c85"
   },
   {
     "url": "favicon.png",
@@ -167,7 +171,7 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/index.html",
-    "revision": "15061edd63723969523eb747f0f0199e"
+    "revision": "0d20271023533226130c0260abe15941"
   },
   {
     "url": "icons/128.png",
@@ -199,75 +203,79 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e8d938ed43a04dafda56af0bb5b17e3e"
+    "revision": "e9cbd424c50c2701702e01bb7f18cf80"
   },
   {
     "url": "quotations/famousQuotes/index.html",
-    "revision": "b2439480ff478d8a894087ba9cdea3aa"
+    "revision": "6dca186b748b770d72c351ba29e19865"
   },
   {
     "url": "quotations/index.html",
-    "revision": "1209b99db545af929cc89196ceeebd4c"
+    "revision": "ddfd99ded15e3c8b583627f735099bca"
   },
   {
     "url": "readbook/bookList/index.html",
-    "revision": "8c604a2680394b7908701e438cb04248"
+    "revision": "7ad510331958753cdcdd8b6894d2919e"
   },
   {
     "url": "readbook/bookNotes/index.html",
-    "revision": "1612e6ea053b20021ba2061512ceb92f"
+    "revision": "013de8d99d3be7c1fa4f59c17666536a"
   },
   {
     "url": "readbook/index.html",
-    "revision": "650266980cadce4e039dcac2e57911f8"
+    "revision": "7faff49593661eaac22f2c8bdcf426de"
   },
   {
     "url": "technology/end/index.html",
-    "revision": "6509bcc38ffd17b55d58e06aa77c30ea"
+    "revision": "47547fc858876932a14fceca1109f5f2"
   },
   {
     "url": "technology/fed/1.html",
-    "revision": "18500ea838572967883a2ec68096efcb"
+    "revision": "f828e897e46f0b1a89dd6a29ca494ed1"
   },
   {
     "url": "technology/fed/index.html",
-    "revision": "024240677f843052e0cc2a54a802cf7e"
+    "revision": "bfc7fc176f8823f95860f94773fdc47e"
   },
   {
     "url": "technology/index.html",
-    "revision": "db1f519e585351714046f85267e04a38"
+    "revision": "d592d456f7d28a81a228ee63aa0b1924"
   },
   {
     "url": "workplace/biography/1.html",
-    "revision": "bb9912f978d5d9d51582356070e83f50"
+    "revision": "1fa584dc4b060c5857e4a1f0d834c2f3"
   },
   {
     "url": "workplace/biography/index.html",
-    "revision": "dd2edd22156f4e7cab3f25012daeae5e"
+    "revision": "ea9a2678c252870a7223876f9a7cc95b"
   },
   {
     "url": "workplace/index.html",
-    "revision": "7b9db999718653092cbf0a4c915bd502"
+    "revision": "f33445d0d48a95295fdad78253708457"
   },
   {
     "url": "workplace/rambling/1.html",
-    "revision": "310ab24d5151891163df8cac14138493"
+    "revision": "47b66a5043a419ed03334d96dc67b3fa"
+  },
+  {
+    "url": "workplace/rambling/2.html",
+    "revision": "68fb2e84f17a63702d34bcae8a2b4609"
   },
   {
     "url": "workplace/rambling/index.html",
-    "revision": "b3e16dac9429846884d2c1998f9d3741"
+    "revision": "9e2ee883a8800729aa9cb83b94d8fdfe"
   },
   {
     "url": "workplace/rambling/management/1.html",
-    "revision": "e0726583c7bf17af462b1b0a8800ba0a"
+    "revision": "91287f02db4b3800f02b189c2339eac8"
   },
   {
     "url": "workplace/rambling/theory/1.html",
-    "revision": "3c9afe0a717d388aa462524880226c45"
+    "revision": "bff0f235a929f8fd8a73fbe800e37476"
   },
   {
     "url": "workplace/rambling/theory/2.html",
-    "revision": "e155d936ea57bb904069ecd0a73fe569"
+    "revision": "adbaab4265c99e68a7d6724330833d00"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -5,6 +5,7 @@
 
 - [阿里大佬分享选择经验](/workplace/rambling/1)
 - [职场人脉梳理，找到你的成长助力](/workplace/rambling/2)
+- [技术职业规划大纲](/workplace/rambling/3)
 
 ##### 理论知识
 

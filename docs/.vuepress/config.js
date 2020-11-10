@@ -1,6 +1,6 @@
 module.exports = {
   // title: '记录生活的美好',
-  title: '',
+  title: 'Deson Notes',
   description: '这里有很多很多宝藏',
   // base: '/my-notes/',
   dest: 'dist',
@@ -42,7 +42,9 @@ module.exports = {
     ],
   },
   plugins: [
-    '@vuepress/back-to-top',
+    '@vuepress/back-to-top', // 回到顶部
+    '@vuepress/nprogress', // 页面加载进度
+    '@vuepress/medium-zoom', // 图片预览
     [
       '@vuepress/pwa',
       {

@@ -5,6 +5,7 @@
 - [阿里大佬分享选择经验](/workplace/rambling/1)
 - [职场人脉梳理，找到你的成长助力](/workplace/rambling/2)
 - [技术职业规划大纲](/workplace/rambling/3)
+- [怎么看：我正点干完活下班了，别人像戏精在加班刷网页](/workplace/rambling/5)
 
 ### 理论知识
 

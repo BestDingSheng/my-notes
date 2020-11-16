@@ -14,4 +14,13 @@ export function getStore(key) {
   return parseResult;
 }
 
+// 返回内容
+export function returnContent (list=[]) {
+  const hasLen = list.length > 0;
+  const curItem = hasLen ? list[0] : {};
+  const { content = '' } = curItem || {};
+  return content
+}
+
+
 

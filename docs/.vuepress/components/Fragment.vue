@@ -31,7 +31,7 @@ export default {
        return false;
     }
     const data = await request.get(poetryParams);
-    const {newslist=[]} = data;
+    const { newslist = [] } = data;
     const hasValue = newslist.length > 0;
     if (hasValue) {
       const firstValue = newslist[0];
@@ -43,6 +43,5 @@ export default {
 </script>
 
 <style lang="postcss" scoped>
-
 
 </style>

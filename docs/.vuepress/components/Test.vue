@@ -1,7 +1,7 @@
 <template>
   <div>
     <Child v-bind:title='pyqDesc' source='朋友圈文案'></Child>
-    <Child v-bind:title='diary' source='舔狗日记'></Child>
+    <Child v-bind:title='diary' source='土味情话'></Child>
   </div>
     
 </template>

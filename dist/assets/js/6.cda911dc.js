@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{357:function(t,n,e){"use strict";e.r(n);var s={data:function(){return{text:"按键的name"}},methods:{changeText:function(t){this.text=t}}},i=e(42),a=Object(i.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"box"},[this._v("\n  dingsheng\n")])}),[],!1,null,null,null);n.default=a.exports}}]);

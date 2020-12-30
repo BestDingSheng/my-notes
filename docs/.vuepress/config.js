@@ -9,6 +9,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
+      { text: 'ToolBox', link: 'http://box.jsding96.cn/' },
+      { text: 'Blog', link: 'http://jsding96.cn/' },
     ],
     sidebar: [
       {
@@ -16,7 +18,11 @@ module.exports = {
         path: '/technology', // 可选的, 标题的跳转链接，应为绝对路径且必须存在
         collapsable: false, // 可选的, 默认值是 true,
         sidebarDepth: 1, // 可选的, 默认值是 1
-        children: ['/technology/fed/', '/technology/end/', '/technology/resource/'],
+        children: [
+          '/technology/fed/',
+          '/technology/end/',
+          '/technology/resource/',
+        ],
       },
       {
         title: '读书', // 必要的

@@ -16,7 +16,7 @@ module.exports = {
         path: '/technology', // 可选的, 标题的跳转链接，应为绝对路径且必须存在
         collapsable: false, // 可选的, 默认值是 true,
         sidebarDepth: 1, // 可选的, 默认值是 1
-        children: ['/technology/fed/', '/technology/end/'],
+        children: ['/technology/fed/', '/technology/end/', '/technology/resource/'],
       },
       {
         title: '读书', // 必要的
@@ -24,7 +24,11 @@ module.exports = {
         collapsable: false, // 可选的, 默认值是 true,
         sidebarDepth: 1, // 可选的, 默认值是 1
         // children: ['/readbook/bookList/', '/readbook/bookNotes/'],
-        children: ['/readbook/bookList/', '/readbook/bookNotes/', 'readbook/life/'],
+        children: [
+          '/readbook/bookList/',
+          '/readbook/bookNotes/',
+          'readbook/life/',
+        ],
       },
       {
         title: '职场', // 必要的

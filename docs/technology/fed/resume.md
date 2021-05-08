@@ -31,7 +31,15 @@
 - 职责：项目 owner, 负责需求评审 技术选型 前端开发等职责
 - 技术栈: React React Hook Redux Immer TypeScript Fetch Express Express-Getaway
 - UI 组件库: Ant Design Zarm-Web
-- 代码规范：Eslint StyleLint Commitlint
+- 代码规范：Eslint StyleLint Prettierrc Commitlint
+
+众安保险 h5 理赔系统
+
+- 介绍：嵌套在众安保险 app 给客户使用的 h5 理赔页面
+- 职责：项目 backup, 同事请假或者需求比较多的时候，会同事一起负责这个项目的前端开发
+- 技术栈: React React Hook Redux 
+- UI 组件库: Zarm
+- 代码规范：Eslint StyleLint Prettierrc Commitlint
 
 #### 拉卡拉 2017-01 - 2018-03
 

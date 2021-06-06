@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "32c4a1088bd098dd0cf62c18c69380a0"
+    "revision": "d531f60536e04b2bc5d8517af831c059"
   },
   {
     "url": "assets/css/0.styles.65ebac89.css",
@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "16105d0794e5b2b779bf359ce0b8bdf7"
   },
   {
-    "url": "assets/js/19.abdc725b.js",
-    "revision": "d1be35ce082ce2d722a4798e1eb499fe"
+    "url": "assets/js/19.22d1d942.js",
+    "revision": "73a84149e421714b8618e882c255f892"
   },
   {
     "url": "assets/js/20.e0ed5a15.js",
@@ -238,12 +238,12 @@ self.__precacheManifest = [
     "revision": "9682688ca16e4afb9e8a8431ef572363"
   },
   {
-    "url": "assets/js/app.9baf0f8a.js",
-    "revision": "e12dc5267be5704696e58115fbfec703"
+    "url": "assets/js/app.0f7c35a6.js",
+    "revision": "3fb71f3b41b789f1341f9ce65f1a03f8"
   },
   {
     "url": "config.html",
-    "revision": "bffc6bbcfbde724b0dcc8f15d45264ae"
+    "revision": "ad963327ff08f88ae3028d3ce17f65bf"
   },
   {
     "url": "favicon.png",
@@ -251,7 +251,7 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/index.html",
-    "revision": "6d550fa495e32340196348ea9ca82d64"
+    "revision": "a091e2e3e00e88e90cb4b06e12bc0d14"
   },
   {
     "url": "icons/128.png",
@@ -283,147 +283,147 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "801b4905a9381c42f1059cf6a9d05f68"
+    "revision": "ba48965b761da4e4a6875156a6bdbc74"
   },
   {
     "url": "quotations/famousQuotes/1.html",
-    "revision": "6523b47a796b9ba4d53402bfb1ce8190"
+    "revision": "7a6374a9e5fe936c3494d4573e880e77"
   },
   {
     "url": "quotations/famousQuotes/2.html",
-    "revision": "8e6718a4f82edd36af64c45ad2f8479c"
+    "revision": "700e9985d6676c8a8cf4e69714fbdb5a"
   },
   {
     "url": "quotations/famousQuotes/3.html",
-    "revision": "a2f46ecef88a9ba6c0c59decdd4961e2"
+    "revision": "d34249a3b0e0beaf8557c5446956c7aa"
   },
   {
     "url": "quotations/famousQuotes/index.html",
-    "revision": "91527063fc6bb37b119baceeeb453b3a"
+    "revision": "4ce5e61235c44c66bb12e2269b27f40c"
   },
   {
     "url": "quotations/index.html",
-    "revision": "1f891aad7135f7f02440c9d732f5f979"
+    "revision": "ca85bed6bb0e67d2a37c2c3dba4b56da"
   },
   {
     "url": "readbook/bookList/1.html",
-    "revision": "2d0fbb0fcd86efd1bd236503c61f4abb"
+    "revision": "e133f867eb83083953efd194b5a94cdf"
   },
   {
     "url": "readbook/bookList/index.html",
-    "revision": "dd128594a10d6839bc318df11005b116"
+    "revision": "9d5f912119dd5832f88d1d674e949c55"
   },
   {
     "url": "readbook/bookNotes/1.html",
-    "revision": "0485747f4270b4c3a1e017fc6143bc1a"
+    "revision": "0378ce9dae9f66793dec6c0dfa016986"
   },
   {
     "url": "readbook/bookNotes/index.html",
-    "revision": "e7da790c45490b640a3a71368a272714"
+    "revision": "059cb9c7f9cea1092468b98440b71fd7"
   },
   {
     "url": "readbook/index.html",
-    "revision": "4ab96b6c6c56d02f7c582ba50269350a"
+    "revision": "a0e0abc86f6f02946c80cc646f62fdc7"
   },
   {
     "url": "readbook/life/1.html",
-    "revision": "1a5038c1e9ecb3678fa27e7621d6eb05"
+    "revision": "ad5dc5337c5aaa621a26dbb187f1ab8e"
   },
   {
     "url": "readbook/life/2.html",
-    "revision": "54543aa8082741aa56af38c3c553a5ef"
+    "revision": "69928d3eb7296dcf114cee05c94676dc"
   },
   {
     "url": "readbook/life/3.html",
-    "revision": "4d555ea464d59abe9cb2165c7efe0ba1"
+    "revision": "0c29ea9b201198d17aa107319ff3e35f"
   },
   {
     "url": "readbook/life/4.html",
-    "revision": "e0f278842a3e05c88ebbe6c4432cfceb"
+    "revision": "ab6c4e102397a364adc27549fa9b41b6"
   },
   {
     "url": "readbook/life/5.html",
-    "revision": "351652ca3cbbda58eb44221ef82eaac7"
+    "revision": "6df6d8291cee16100fc5a2750018eb3b"
   },
   {
     "url": "readbook/life/index.html",
-    "revision": "793acde65e6c6ca66738947f0c0e183b"
+    "revision": "0a7634feb86cd3702ebd439cb109e5f2"
   },
   {
     "url": "technology/end/index.html",
-    "revision": "f15cf8e3aed6aac8cedabc1e710bf876"
+    "revision": "600527358dca685dd3b8ac073de5a47e"
   },
   {
     "url": "technology/fed/1.html",
-    "revision": "36f3a0f79da618dc13c0b1e7ed85de60"
+    "revision": "400648dfa08676043198b0e434917c0f"
   },
   {
     "url": "technology/fed/2.html",
-    "revision": "c194cbcda5c5c1dba6f37cd19084face"
+    "revision": "2ac92ce0a399ea80e4c97564587cca06"
   },
   {
     "url": "technology/fed/3.html",
-    "revision": "dfc4e0b19c6bbc8bfa5b23512e2bdcb4"
+    "revision": "43b34a5ca91fc58a42903fd1b7de078d"
   },
   {
     "url": "technology/fed/index.html",
-    "revision": "b6bd3e0e6ab4f946ee1178dd6138b852"
+    "revision": "ad8a632e1150e08e275a24d8da433d4d"
   },
   {
     "url": "technology/index.html",
-    "revision": "b2a307f0a69b5e64d0d6bb20955e6b7f"
+    "revision": "5eaa4692aa99403e23d03ca5eb487dfb"
   },
   {
     "url": "technology/resource/index.html",
-    "revision": "7f3251817cb9715858bccb2d38691fd9"
+    "revision": "8586342a0cdc501acf995a1c7dfd5ab9"
   },
   {
     "url": "workplace/biography/1.html",
-    "revision": "43cf461cfdb6f8fc361123607e352828"
+    "revision": "0f1a77f57d9886505afb59eea925d09c"
   },
   {
     "url": "workplace/biography/index.html",
-    "revision": "71d697372a06dea31b8c4b214818b780"
+    "revision": "b2acf8438ffe2cd5b672aa0a4482f6a1"
   },
   {
     "url": "workplace/index.html",
-    "revision": "e1b246118599025b8c78bac93a56fa5b"
+    "revision": "74f35a77f9059a7c5888cc6c7fdda7d8"
   },
   {
     "url": "workplace/rambling/1.html",
-    "revision": "1b01d523e55d7f98d0b8ef656b99a3ce"
+    "revision": "40b6a668798b8733bdb57f7a576dcc86"
   },
   {
     "url": "workplace/rambling/2.html",
-    "revision": "ce51fc5859ea4b789541ee8c98979af7"
+    "revision": "66115299a83ae75fd9a111bbc6ff86e4"
   },
   {
     "url": "workplace/rambling/3.html",
-    "revision": "05fc173a47fb1ded9c5d17c3a6f42f25"
+    "revision": "c092e77eaca99ec7e062424df27179f3"
   },
   {
     "url": "workplace/rambling/5.html",
-    "revision": "33d4b1eb9aeae8b249e3e2292a12c398"
+    "revision": "1c9dd8a627e013cd101ea408df5af77d"
   },
   {
     "url": "workplace/rambling/index.html",
-    "revision": "aab9e9b3c61f9118f80be74379ff5762"
+    "revision": "6eac0f6d6253bf85d27854c46e587de1"
   },
   {
     "url": "workplace/rambling/management/1.html",
-    "revision": "1f0a17884594fa3815afa2e516518979"
+    "revision": "4ec161572e92e49f7da04f275db728af"
   },
   {
     "url": "workplace/rambling/management/2.html",
-    "revision": "f622f5d517378bb214e0d608e7773b82"
+    "revision": "9093cd00d7bfe648538790a069bae5b9"
   },
   {
     "url": "workplace/rambling/theory/1.html",
-    "revision": "f75476ac34215a258c38518fe1c79c0c"
+    "revision": "c59fd59538b59a9c379baf9b4601f09c"
   },
   {
     "url": "workplace/rambling/theory/2.html",
-    "revision": "cf92d43f5334894e9618836141a320a5"
+    "revision": "2a7db3585753e05a342d61a2879f85a7"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
